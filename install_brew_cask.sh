@@ -9,15 +9,17 @@
 apps=(
     cheatsheet
     clipy
+    ezip          # compress & extract
     fliqlo        # Screen Saver
     hyperswitch
     iterm2
+    keepingyouawake
     keycastr      # Show keys on the screen
     licecap       # Recording screen as gif
     mounty        # Mounty for NTFS read/write
     mos           # Smooth and reverse scroll. Alternative: scroll-reverser
     shadowsocksx-ng-r
-    # shiftit       # Window management. spectacle
+    # shiftit       # Window management. Alternative: spectacle
     # vanilla       # Hide menu bar icons. Alternative: bartender
 
     iina          # Media player
@@ -27,7 +29,7 @@ apps=(
     # netspot       # Wifi signal analysis and scanner
     osxfuse
     veracrypt
-    # vox           # Music player
+    vox           # Music player
     sogouinput
 
     # Audio
@@ -44,7 +46,7 @@ apps=(
     typora        # Markdown editor
     visual-studio-code
 
-    # Utils
+    # Utilities
     # acrobat-reader
     aliwangwang
     baidunetdisk
